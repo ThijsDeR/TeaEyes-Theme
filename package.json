@@ -1,0 +1,28 @@
+{
+    "name": "teaeyes--theme",
+    "displayName": "TeaEyes' Theme Dark",
+    "description": "A theme for me by me",
+    "version": "1.0.0",
+    "publisher": "TeaEyes",
+    
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "TeaEyes theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TeaEyes' Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TeaEyes' Theme-color-theme.json"
+            }
+        ]
+    }
+}
