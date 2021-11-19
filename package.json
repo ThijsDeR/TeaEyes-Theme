@@ -4,7 +4,10 @@
     "description": "A theme for me by me",
     "version": "1.0.0",
     "publisher": "TeaEyes",
-    
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ThijsDeR/TeaEyes-Theme"
+    },
     "engines": {
         "vscode": "^1.62.0"
     },
