@@ -1,9 +1,10 @@
 # Change Log
 
-## [First release V1.0.0]
+## Version 1
+- Initial release [V1.0.0]
 
-- Initial release
+- Updated json files and the overal look [V1.1.0]
 
-## [Minor Update V1.1.0]
+- Added Icon [V1.1.1]
 
-- Updated json files and the overal look
+- Updated Readme for contact info [V1.1.2]
