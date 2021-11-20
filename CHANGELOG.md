@@ -5,6 +5,8 @@
 
 - Updated json files and the overal look [V1.1.0]
 
-- Added Icon [V1.1.1]
+- Added icon [V1.1.1]
 
-- Updated Readme for contact info [V1.1.2]
+- Updated readme for contact info [V1.1.2]
+
+- Added support for python [V1.2.0]
