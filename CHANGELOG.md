@@ -13,3 +13,5 @@
 - Added support for python [V1.2.0]
 
 - Added ts private keyword and comment fix [V1.2.1]
+
+- Added css selector style [V1.2.2]

@@ -846,10 +846,17 @@
       }
     },
     {
-      "scope" : ["keyword.control.flow.python"],
+      "scope": ["keyword.control.flow.python"],
       "settings": {
         "foreground": "#C792EA",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["punctuation.definition.entity.css"],
+      "settings": {
+        "foreground": "#FFD700",
+        "fontStyle": "bold"
       }
     }
   ]
