@@ -345,9 +345,10 @@
     {
       "scope": ["text.html.derivative"],
       "settings": {
-        "foreground": "#A7A8AF"
+        "foreground": "#FFFFFF"
       }
     },
+
     {
       "scope": [
         "entity.name.tag",
@@ -400,7 +401,6 @@
     },
     {
       "scope": [
-        "string.quoted.double.html",
         "variable.other.object.property.js",
         "string.quoted.double.json",
         "markup.fenced_code.block.markdown",
@@ -853,11 +853,23 @@
       }
     },
     {
-      "scope": ["punctuation.definition.entity.css"],
+      "scope": [
+        "punctuation.definition.entity.css",
+      ],
       "settings": {
         "foreground": "#FFD700",
         "fontStyle": "bold"
       }
+    },
+    {
+      "scope": [
+        "string.quoted.double.html", 
+        "string.quoted.single.html"
+      ],
+      "settings": {
+        "foreground": "#dab778",
+      }
     }
+
   ]
 }
