@@ -802,7 +802,7 @@
     {
       "scope": ["keyword.control", "keyword"],
       "settings": {
-        "foreground": "#ffffff",
+        "foreground": "#31EB8E",
         "fontStyle": "bold"
       }
     },
