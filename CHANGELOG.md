@@ -19,3 +19,5 @@
 - Changed keywords [V1.2.3]
 
 - Added More HTML Support and added Showcase image [V1.3.0]
+
+- Changed squiggly color to red [V1.3.1]
